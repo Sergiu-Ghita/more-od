@@ -1,0 +1,17 @@
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ ./proxy --cid=222 --freq=100
+Proxy::nextString start: USF 3 USR 3 IRFR 3 IRRR 3 IRRC 3
+Proxy::nextString end.
+Proxy::nextString start: USF 5 USR 5 IRFR 5 IRRR 5 IRRC 5
+Proxy::nextString end.
+Proxy::nextString start: USF 6 USR 6 IRFR 6 IRRR 6 IRRC 6
+Proxy::nextString end.
+Proxy::nextString start: USF 7 USR 7 IRFR 7 IRRR 7 IRRC 7
+Proxy::nextString end.
+Proxy::nextString start: USF 8 USR 8 IRFR 8 IRRR 8 IRRC 8
+Proxy::nextString end.
+Proxy::nextString start: USF 9 USR 9 IRFR 9 IRRR 9 I
+Proxy::nextString end.
+^CProxy::teardown start!
+if m_serial start
+
+

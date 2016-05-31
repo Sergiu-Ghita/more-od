@@ -1,0 +1,181 @@
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ 
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ ./proxy --cid=222 --freq=100 --verbose=0
+NSP::nextString start: �s�� )JJ��Ha$���HM)N������!H )J��a@�J��
+NSP::decodeNetstring start
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: �H�J��p@���!@ 	J��HE����d` H��`@�J��dH���@�J��HE!N��T�H�J���M)N��5� ���%` )JJ��Ha$���HM)N������!H )J��a@�J��
+NSP::decodeNetstring start
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: �H�J��p@���!@ 	J��HE����d` H��`@�J��dH���@�J��HE!N��T�H�J���M)N��5� ���%` )J
+NSP::decodeNetstring start
+NSP::decodeNetstring end
+NSP::nextString end
+Proxy::nextContainer start
+Proxy::nextContainer end
+NSP::nextString start: 32:USF
+NSP::decodeNetstring start
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start:  0 USR 0 IRFR 0 IRRR 0 IR
+NSP::decodeNetstring start
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: RC 0,
+
+NSP::decodeNetstring start
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 32:USF 1 USR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  1 IRFR 1 IRRR 1 IRRC 1,
+NSP::decodeNetstring start
+Proxy::nextString start: USF 1 USR 1 IRFR 1 IRRR 1 IRRC 1
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 
+
+NSP::decodeNetstring start
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 32:USF 2 USR 2 IRF
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: R 2 IRRR 2 IRRC 2,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 2 USR 2 IRFR 2 IRRR 2 IRRC 2
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 32:USF 3 USR 3 IRFR 3 IR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RR 3 IRRC 3,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 3 USR 3 IRFR 3 IRRR 3 IRRC 3
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 32:USF
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  4 USR 4 IRFR 4 IRRR 4 I
+NSP::decodeNetstring start
+Proxy::nextString start: USF 4 USR 4 IRFR 4 IRRR 4 I
+Proxy::nextString end.
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+^CProxy::teardown start!
+if m_serial start
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^C^CProxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+^CProxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+Proxy::nextContainer start
+Proxy::nextContainer end
+

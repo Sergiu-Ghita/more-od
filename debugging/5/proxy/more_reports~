@@ -1,0 +1,1119 @@
+[...]
+NSP::decodeNetstring start
+Proxy::nextString start: USF 1647 USR 1647 IRFR 1647 IRRR 1647 IRRC 1647
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 47:USF 1648 US
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: R 1648 IRFR 1648 IRRR 16
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 48 IRRC 1648,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 1648 USR 1648 IRFR 1648 IRRR 1648 IRRC 1648
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 47:USF 1649 USR 16
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 49 IRFR 1649 IRRR 1649 I
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RRC 1649,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 1649 USR 1649 IRFR 1649 IRRR 1649 IRRC 1649
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 47:USF 1650 USR 1650 I
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RFR 1650 IRRR 1650 IRRC 
+NSP::decodeNetstring start
+Proxy::nextString start: USF 1650 USR 1650 IRFR 1650 IRRR 1650 IRRC 
+Proxy::nextString end.
+^CProxy::teardown start!
+if m_serial start
+
+---------------------------------------------------------------
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ ./proxy --cid=222 --freq=100
+NSP::nextString start: 52:USF 10769 USR 10769 IRFR 10769 IRRR 10769 IRRC 10769,
+52:USF 10770 USR 10770 IRFR 10770 IRRR 10770 IRRC 10770,
+52:USF 10771 USR 10771 IRFR 10771 IRRR 10771 IRRC 10771,
+52:USF 10772 USR 10772 IRFR 10772 IRRR 10772 IRRC 10772,
+52:USF 10773 USR 10773 IRFR 10773 IRRR 10773 IRRC 10773,
+52:USF 10774 USR 10774 IRFR 10774 IRRR 10774 IRRC 10774,
+52:USF 10775 USR 10775 IRFR 10775 IRRR 10775 IRRC 10775,
+52:USF 10776 USR 10776 IRFR 10776 IRRR 10776 IRRC 10776,
+52:USF 10777 USR 10777 IRFR 10777 IRRR 10777 IRRC 10777,
+52:USF 10778 USR 10778 IRFR 10778 IRRR 10778 IRRC 10778,
+52:USF 10779 USR 10779 IRFR 10779 IRRR 10779 IRRC 10779,
+52:USF 10780 USR 10780 IRFR 10780 IRRR 10780 IRRC 10780,
+52:USF 10781 USR 10781 IRFR 10781 IRRR 10781 IRRC 10781,
+52:USF 10782 USR 10782 IRFR 10782 IRRR 10782 IRRC 10782,
+52:USF 10783 USR 10783 IRFR 10783 IRRR 10783 IRRC 10783,
+52:USF 10784 USR 10784 IRFR 10784 IRRR 10784 IRRC 10784,
+52:USF 10785 USR 10785 IRFR 10785 IRRR 10785 IRRC 10785,
+52:USF 10786 USR 10786 IRFR 10786 IRRR 10786 IRRC 10786,
+52:USF 10787 USR 10787 IRFR 10787 IRRR 10787 IRRC 10787,
+52:USF 10788 USR 10788 IRFR 10788 IRRR 10788 IRRC 10788,
+52:USF 10789 USR 10789 IRFR 10789 IRRR 10789 IRRC 10789,
+52:USF 10790 USR 10790 IRFR 10790 IRRR 10790 IRRC 10790,
+52:USF 10791 USR 10791 IRFR 10791 IRRR 10791 IRRC 10791,
+52:USF 10792 USR 10792 IRFR 10792 IRRR 10792 IRRC 10792,
+52:USF 10793 USR 10793 IRFR 10793 IRRR 10793 IRRC 10793,
+52:USF 10794 USR 10794 IRFR 10794 IRRR 10794 IRRC 10794,
+52:USF 10795 USR 10795 IRFR 10795 IRRR 10795 IRRC 10795,
+52:USF 10796 USR 10796 IRFR 10796 IRRR 10796 IRRC 10796,
+52:USF 10797 USR 10797 IRFR 10797 IRRR 10797 IRRC 10797,
+52:USF 10798 USR 10798 IRFR 10798 IRRR 10798 IRRC 10798,
+52:USF 10799 USR 10799 IRFR 10799 IRRR 10799 IRRC 10799,
+52:USF 10800 USR 10800 IRFR 10800 IRRR 10800 IRRC 10800,
+52:USF 10801 USR 10801 IRFR 10801 IRRR 10801 IRRC 10801,
+52:USF 10802 USR 10802 IRFR 10802 IRRR 10802 IRRC 10802,
+52:USF 10803 USR 10803 IRFR 10803 IRRR 10803 IRRC 10803,
+52:USF 10804 USR 10804 IRFR 10804 IRRR 10804 IRRC 10804,
+52:USF 10805 USR 10805 IRFR 10805 IRRR 10805 IRRC 10805,
+52:USF 10806 USR 10806 IRFR 10806 IRRR 10806 IRRC 10806,
+52:USF 10807 USR 10807 IRFR 10807 IRRR 10807 IRRC 10807,
+52:USF 10808 USR 10808 IRFR 10808 IRRR 10808 IRRC 10808,
+52:USF 10809 USR 10809 IRFR 10809 IRRR 10809 IRRC 10809,
+52:USF 10810 USR 10810 IRFR 10810 IRRR 10810 IRRC 10810,
+52:USF 10811 USR 10811 IRFR 10811 IRRR 10811 IRRC 10811,
+52:USF 10812 USR 10812 IRFR 10812 IRRR 10812 IRRC 10812,
+52:USF 10813 USR 10813 IRFR 10813 IRRR 10813 IRRC 10813,
+52:USF 10814 USR 10814 IRFR 10814 IRRR 10814 IRRC 10814,
+52:USF 10815 USR 10815 IRFR 10815 IRRR 10815 IRRC 10815,
+52:USF 10816 USR 10816 IRFR 10816 IRRR 10816 IRRC 10816,
+52:USF 10817 USR 10817 IRFR 10817 IRRR 10817 IRRC 10817,
+52:USF 10818 USR 10818 IRFR 10818 IRRR 10818 IRRC 10818,
+52:USF 10819 USR 10819 IRFR 10819 IRRR 10819 IRRC 10819,
+52:USF 10820 USR 10820 IRFR 10820 IRRR 10820 IRRC 10820,
+52:USF 10821 USR 10821 IRFR 10821 IRRR 10821 IRRC 10821,
+52:USF 10822 USR 10822 IRFR 10822 IRRR 10822 IRRC 10822,
+52:USF 10823 USR 10823 IRFR 10823 IRRR 10823 IRRC 10823,
+52:USF 10824 USR 10824 IRFR 10824 IRRR 10824 IRRC 10824,
+52:USF 10825 USR 10825 IRFR 10825 IRRR 10825 IRRC 10825,
+52:USF 10826 USR 10826 IRFR 10826 IRRR 10826 IRRC 10826,
+52:USF 10827 USR 10827 IRFR 10827 IRRR 10827 IRRC 10827,
+52:USF 10828 USR 10828 IRFR 10828 IRRR 10828 IRRC 10828,
+52:USF 10829 USR 10829 IRFR 10829 IRRR 10829 IRRC 10829,
+52:USF 10830 USR 10830 IRFR 10830 IRRR 10830 IRRC 10830,
+52:USF 10831 USR 10831 IRFR 10831 IRRR 10831 IRRC 10831,
+52:USF 10832 USR 10832 IRFR 10832 IRRR 10832 IRRC 10832,
+52:USF 10833 USR 10833 IRFR 10833 IRRR 10833 IRRC 10833,
+52:USF 10834 USR 10834 IRFR 10834 IRRR 10834 IRRC 10834,
+52:USF 10835 USR 10835 IRFR 10835 IRRR 10835 IRRC 10835,
+52:USF 10836 USR 10836 IRFR 10836 IRRR 10836 IRRC 10836,
+52:USF 10837 USR 10837 IRFR 10837 IRRR 10837 IRRC 10837,
+52:USF 10838 USR 10838 IRFR 10838 IRRR 10838 IRRC 10838,
+52:USF 10839 USR 10839 IRFR 10839 I
+NSP::decodeNetstring start
+Proxy::nextString start: USF 10769 USR 10769 IRFR 10769 IRRR 10769 IRRC 10769
+Proxy::nextString end.
+Proxy::nextString start: USF 10770 USR 10770 IRFR 10770 IRRR 10770 IRRC 10770
+Proxy::nextString end.
+Proxy::nextString start: USF 10771 USR 10771 IRFR 10771 IRRR 10771 IRRC 10771
+Proxy::nextString end.
+Proxy::nextString start: USF 10772 USR 10772 IRFR 10772 IRRR 10772 IRRC 10772
+Proxy::nextString end.
+Proxy::nextString start: USF 10773 USR 10773 IRFR 10773 IRRR 10773 IRRC 10773
+Proxy::nextString end.
+Proxy::nextString start: USF 10774 USR 10774 IRFR 10774 IRRR 10774 IRRC 10774
+Proxy::nextString end.
+Proxy::nextString start: USF 10775 USR 10775 IRFR 10775 IRRR 10775 IRRC 10775
+Proxy::nextString end.
+Proxy::nextString start: USF 10776 USR 10776 IRFR 10776 IRRR 10776 IRRC 10776
+Proxy::nextString end.
+Proxy::nextString start: USF 10777 USR 10777 IRFR 10777 IRRR 10777 IRRC 10777
+Proxy::nextString end.
+Proxy::nextString start: USF 10778 USR 10778 IRFR 10778 IRRR 10778 IRRC 10778
+Proxy::nextString end.
+Proxy::nextString start: USF 10779 USR 10779 IRFR 10779 IRRR 10779 IRRC 10779
+Proxy::nextString end.
+Proxy::nextString start: USF 10780 USR 10780 IRFR 10780 IRRR 10780 IRRC 10780
+Proxy::nextString end.
+Proxy::nextString start: USF 10781 USR 10781 IRFR 10781 IRRR 10781 IRRC 10781
+Proxy::nextString end.
+Proxy::nextString start: USF 10782 USR 10782 IRFR 10782 IRRR 10782 IRRC 10782
+Proxy::nextString end.
+Proxy::nextString start: USF 10783 USR 10783 IRFR 10783 IRRR 10783 IRRC 10783
+Proxy::nextString end.
+Proxy::nextString start: USF 10784 USR 10784 IRFR 10784 IRRR 10784 IRRC 10784
+Proxy::nextString end.
+Proxy::nextString start: USF 10785 USR 10785 IRFR 10785 IRRR 10785 IRRC 10785
+Proxy::nextString end.
+Proxy::nextString start: USF 10786 USR 10786 IRFR 10786 IRRR 10786 IRRC 10786
+Proxy::nextString end.
+Proxy::nextString start: USF 10787 USR 10787 IRFR 10787 IRRR 10787 IRRC 10787
+Proxy::nextString end.
+Proxy::nextString start: USF 10788 USR 10788 IRFR 10788 IRRR 10788 IRRC 10788
+Proxy::nextString end.
+Proxy::nextString start: USF 10789 USR 10789 IRFR 10789 IRRR 10789 IRRC 10789
+Proxy::nextString end.
+Proxy::nextString start: USF 10790 USR 10790 IRFR 10790 IRRR 10790 IRRC 10790
+Proxy::nextString end.
+Proxy::nextString start: USF 10791 USR 10791 IRFR 10791 IRRR 10791 IRRC 10791
+Proxy::nextString end.
+Proxy::nextString start: USF 10792 USR 10792 IRFR 10792 IRRR 10792 IRRC 10792
+Proxy::nextString end.
+Proxy::nextString start: USF 10793 USR 10793 IRFR 10793 IRRR 10793 IRRC 10793
+Proxy::nextString end.
+Proxy::nextString start: USF 10794 USR 10794 IRFR 10794 IRRR 10794 IRRC 10794
+Proxy::nextString end.
+Proxy::nextString start: USF 10795 USR 10795 IRFR 10795 IRRR 10795 IRRC 10795
+Proxy::nextString end.
+Proxy::nextString start: USF 10796 USR 10796 IRFR 10796 IRRR 10796 IRRC 10796
+Proxy::nextString end.
+Proxy::nextString start: USF 10797 USR 10797 IRFR 10797 IRRR 10797 IRRC 10797
+Proxy::nextString end.
+Proxy::nextString start: USF 10798 USR 10798 IRFR 10798 IRRR 10798 IRRC 10798
+Proxy::nextString end.
+Proxy::nextString start: USF 10799 USR 10799 IRFR 10799 IRRR 10799 IRRC 10799
+Proxy::nextString end.
+Proxy::nextString start: USF 10800 USR 10800 IRFR 10800 IRRR 10800 IRRC 10800
+Proxy::nextString end.
+Proxy::nextString start: USF 10801 USR 10801 IRFR 10801 IRRR 10801 IRRC 10801
+Proxy::nextString end.
+Proxy::nextString start: USF 10802 USR 10802 IRFR 10802 IRRR 10802 IRRC 10802
+Proxy::nextString end.
+Proxy::nextString start: USF 10803 USR 10803 IRFR 10803 IRRR 10803 IRRC 10803
+Proxy::nextString end.
+Proxy::nextString start: USF 10804 USR 10804 IRFR 10804 IRRR 10804 IRRC 10804
+Proxy::nextString end.
+Proxy::nextString start: USF 10805 USR 10805 IRFR 10805 IRRR 10805 IRRC 10805
+Proxy::nextString end.
+Proxy::nextString start: USF 10806 USR 10806 IRFR 10806 IRRR 10806 IRRC 10806
+Proxy::nextString end.
+Proxy::nextString start: USF 10807 USR 10807 IRFR 10807 IRRR 10807 IRRC 10807
+Proxy::nextString end.
+Proxy::nextString start: USF 10808 USR 10808 IRFR 10808 IRRR 10808 IRRC 10808
+Proxy::nextString end.
+Proxy::nextString start: USF 10809 USR 10809 IRFR 10809 IRRR 10809 IRRC 10809
+Proxy::nextString end.
+Proxy::nextString start: USF 10810 USR 10810 IRFR 10810 IRRR 10810 IRRC 10810
+Proxy::nextString end.
+Proxy::nextString start: USF 10811 USR 10811 IRFR 10811 IRRR 10811 IRRC 10811
+Proxy::nextString end.
+Proxy::nextString start: USF 10812 USR 10812 IRFR 10812 IRRR 10812 IRRC 10812
+Proxy::nextString end.
+Proxy::nextString start: USF 10813 USR 10813 IRFR 10813 IRRR 10813 IRRC 10813
+Proxy::nextString end.
+Proxy::nextString start: USF 10814 USR 10814 IRFR 10814 IRRR 10814 IRRC 10814
+Proxy::nextString end.
+Proxy::nextString start: USF 10815 USR 10815 IRFR 10815 IRRR 10815 IRRC 10815
+Proxy::nextString end.
+Proxy::nextString start: USF 10816 USR 10816 IRFR 10816 IRRR 10816 IRRC 10816
+Proxy::nextString end.
+Proxy::nextString start: USF 10817 USR 10817 IRFR 10817 IRRR 10817 IRRC 10817
+Proxy::nextString end.
+Proxy::nextString start: USF 10818 USR 10818 IRFR 10818 IRRR 10818 IRRC 10818
+Proxy::nextString end.
+Proxy::nextString start: USF 10819 USR 10819 IRFR 10819 IRRR 10819 IRRC 10819
+Proxy::nextString end.
+Proxy::nextString start: USF 10820 USR 10820 IRFR 10820 IRRR 10820 IRRC 10820
+Proxy::nextString end.
+Proxy::nextString start: USF 10821 USR 10821 IRFR 10821 IRRR 10821 IRRC 10821
+Proxy::nextString end.
+Proxy::nextString start: USF 10822 USR 10822 IRFR 10822 IRRR 10822 IRRC 10822
+Proxy::nextString end.
+Proxy::nextString start: USF 10823 USR 10823 IRFR 10823 IRRR 10823 IRRC 10823
+Proxy::nextString end.
+Proxy::nextString start: USF 10824 USR 10824 IRFR 10824 IRRR 10824 IRRC 10824
+Proxy::nextString end.
+Proxy::nextString start: USF 10825 USR 10825 IRFR 10825 IRRR 10825 IRRC 10825
+Proxy::nextString end.
+Proxy::nextString start: USF 10826 USR 10826 IRFR 10826 IRRR 10826 IRRC 10826
+Proxy::nextString end.
+Proxy::nextString start: USF 10827 USR 10827 IRFR 10827 IRRR 10827 IRRC 10827
+Proxy::nextString end.
+Proxy::nextString start: USF 10828 USR 10828 IRFR 10828 IRRR 10828 IRRC 10828
+Proxy::nextString end.
+Proxy::nextString start: USF 10829 USR 10829 IRFR 10829 IRRR 10829 IRRC 10829
+Proxy::nextString end.
+Proxy::nextString start: USF 10830 USR 10830 IRFR 10830 IRRR 10830 IRRC 10830
+Proxy::nextString end.
+Proxy::nextString start: USF 10831 USR 10831 IRFR 10831 IRRR 10831 IRRC 10831
+Proxy::nextString end.
+Proxy::nextString start: USF 10832 USR 10832 IRFR 10832 IRRR 10832 IRRC 10832
+Proxy::nextString end.
+Proxy::nextString start: USF 10833 USR 10833 IRFR 10833 IRRR 10833 IRRC 10833
+Proxy::nextString end.
+Proxy::nextString start: USF 10834 USR 10834 IRFR 10834 IRRR 10834 IRRC 10834
+Proxy::nextString end.
+Proxy::nextString start: USF 10835 USR 10835 IRFR 10835 IRRR 10835 IRRC 10835
+Proxy::nextString end.
+Proxy::nextString start: USF 10836 USR 10836 IRFR 10836 IRRR 10836 IRRC 10836
+Proxy::nextString end.
+Proxy::nextString start: USF 10837 USR 10837 IRFR 10837 IRRR 10837 IRRC 10837
+Proxy::nextString end.
+Proxy::nextString start: USF 10838 USR 10838 IRFR 10838 IRRR 10838 IRRC 10838
+Proxy::nextString end.
+NSP::nextString end
+NSP::nextString start: RRR 10839 IRRC 10839,
+52:USF 10840 USR 10840 IRFR 10840 IRRR 10840 I 1296 IRRC 11296,
+RRC 11294,
+52:USF 11295 USR 11295 IRFR 11295 IRRR 11295 IRRC 11295,
+52:USF 11296 USR 11296 IRFR 11296 IRRR 11296 IRRC 11296,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 10839 USR 10839 IRFR 10839 IRRR 10839 IRRC 10839
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 1129
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 7 USR 11297 IRFR 11297 I
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RRR 11297 IRRC 11297,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 11297 USR 11297 IRFR 11297 IRRR 11297 IRRC 11297
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 11298 U
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: SR 11298 IRFR 11298 IRRR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  11298 IRRC 11298,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 11298 USR 11298 IRFR 11298 IRRR 11298 IRRC 11298
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 11299 USR 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 11299 IRFR 11299 IRRR 11
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 299 IRRC 11299,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 11299 USR 11299 IRFR 11299 IRRR 11299 IRRC 11299
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 11300 USR 113
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 00 IRFR 11300 IRRR 11300
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  IRRC 11300,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 11300 USR 11300 IRFR 11300 IRRR 11300 IRRC 11300
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 11301 USR 11301
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  IRFR 11301 IRRR 11301 I
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RRC 11301,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 11301 USR 11301 IRFR 11301 IRRR 11301 IRRC 11301
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 5
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 2:USF 11302 USR 11302 IR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: FR 11302 IRRR 11302 IRRC
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  11302,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 11302 USR 11302 IRFR 11302 IRRR 11302 IRRC 11302
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:U
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: SF 11303 USR 11303 IRFR 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 11303 IRRR 11303 IRRC 11
+NSP::decodeNetstring start
+Proxy::nextString start: USF 11303 USR 11303 IRFR 11303 IRRR 11303 IRRC 11
+Proxy::nextString end.
+
+
+------------------------
+[...]
+NSP::decodeNetstring start
+Proxy::nextString start: USF 17984 USR 17984 IRFR 17984 IRRR 17984 IRRC 17984
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: USF 17985 USR 17985 IRFR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  17985 IRRR 17985 IRRC 1
+NSP::decodeNetstring start
+Proxy::nextString start: USF 17985 USR 17985 IRFR 17985 IRRR 17985 IRRC 1
+Proxy::nextString end.
+[STUCK]
+^CProxy::teardown start!
+if m_serial start
+CTRL+Z
+
+-----------------
+
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ ./proxy --cid=222 --freq=100
+NSP::nextString start: 21 IRFR 18921 IRRR 18921 IRRC 18921,
+52:USF 18922 USR 18922 IRFR 18922 IRRR 18922 IRRC 18922,
+52:USF 18923 USR 18923 IRFR 18923 IRRR 18923 IRRC 18923,
+52:USF 18924 USR 18924 IRFR 18924 IRRR 18924 IRRC 18924,
+52:USF 18925 USR 18925 IRFR 18925 IRRR 18925 IRRC 18925,
+52:USF 18926 USR 18926 IRFR 18926 IRRR 18926 IRRC 18926,
+52:USF 18927 USR 18927 IRFR 18927 IRRR 18927 IRRC 18927,
+52:USF 18928 USR 18928 IRFR 18928 IRRR 18928 IRRC 18928,
+
+NSP::decodeNetstring start
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 18929 USR 18
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 929 IRFR 18929 IRRR 1892
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 9 IRRC 18929,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 18929 USR 18929 IRFR 18929 IRRR 18929 IRRC 18929
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 18930 USR 18930
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  IRFR 18930 IRRR 18930 I
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RRC 18930,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 18930 USR 18930 IRFR 18930 IRRR 18930 IRRC 18930
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 5
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 2:USF 18931 USR 18931 IR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: FR 18931 IRRR 18931 IRRC
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  18931,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 18931 USR 18931 IRFR 18931 IRRR 18931 IRRC 18931
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:U
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: SF 18932 USR 18932 IRFR 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 18932 IRRR 18932 IRRC 18
+NSP::decodeNetstring start
+Proxy::nextString start: USF 18932 USR 18932 IRFR 18932 IRRR 18932 IRRC 18
+Proxy::nextString end.
+^CProxy::teardown start!
+if m_serial start
+
+---------------------------------------------------------
+
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ ./proxy --cid=222 --freq=100
+NSP::nextString start: 52:USF 20836 USR 20836 IRFR 20836 IRRR 20836 IRRC 20836,
+52:USF 20837 USR 20837 IRFR 20837 IRRR 20837 IRRC 20837,
+52:USF 20838 USR 20838 IRFR 20838 IRRR 20838 IRRC 20838,
+52:USF 20839 USR 20839 IRFR 20839 IRRR 20839 IRRC 20839,
+52:USF 20840 USR 20840 IRFR 20840 IRRR 20840 IRRC 20840,
+52:USF 20841 USR 20841 IRFR 20841 IRRR 20841 IRRC 20841,
+52:USF 20842 USR 20842 IRFR 20842 IRRR 20842 IRRC 20842,
+52:USF 20843 USR 20843 IRFR 20843 IRRR 20843 IRRC 20843,
+52:USF 20844 USR 20844 IRFR 20844 IRRR 20844 IRRC 20844,
+52:USF 20845 USR 20845 IRFR 20845 IRRR 20845 IRRC 20845,
+52:USF 20846 USR 20846 IRFR 20846 IRRR 20846 IRRC 20846,
+52:USF 20847 USR 20847 IRFR 20847 IRRR 20847 IRRC 20847,
+52:USF 20848 USR 20848 IRFR 20848 IRRR 20848 IRRC 20848,
+52:USF 20849 USR 20849 IRFR 20849 IRRR 20849 IRRC 20849,
+52:USF 20850 USR 20850 IRFR 20850 IRRR 20850 IRRC 20850,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 20836 USR 20836 IRFR 20836 IRRR 20836 IRRC 20836
+Proxy::nextString end.
+Proxy::nextString start: USF 20837 USR 20837 IRFR 20837 IRRR 20837 IRRC 20837
+Proxy::nextString end.
+Proxy::nextString start: USF 20838 USR 20838 IRFR 20838 IRRR 20838 IRRC 20838
+Proxy::nextString end.
+Proxy::nextString start: USF 20839 USR 20839 IRFR 20839 IRRR 20839 IRRC 20839
+Proxy::nextString end.
+Proxy::nextString start: USF 20840 USR 20840 IRFR 20840 IRRR 20840 IRRC 20840
+Proxy::nextString end.
+Proxy::nextString start: USF 20841 USR 20841 IRFR 20841 IRRR 20841 IRRC 20841
+Proxy::nextString end.
+Proxy::nextString start: USF 20842 USR 20842 IRFR 20842 IRRR 20842 IRRC 20842
+Proxy::nextString end.
+Proxy::nextString start: USF 20843 USR 20843 IRFR 20843 IRRR 20843 IRRC 20843
+Proxy::nextString end.
+Proxy::nextString start: USF 20844 USR 20844 IRFR 20844 IRRR 20844 IRRC 20844
+Proxy::nextString end.
+Proxy::nextString start: USF 20845 USR 20845 IRFR 20845 IRRR 20845 IRRC 20845
+Proxy::nextString end.
+Proxy::nextString start: USF 20846 USR 20846 IRFR 20846 IRRR 20846 IRRC 20846
+Proxy::nextString end.
+Proxy::nextString start: USF 20847 USR 20847 IRFR 20847 IRRR 20847 IRRC 20847
+Proxy::nextString end.
+Proxy::nextString start: USF 20848 USR 20848 IRFR 20848 IRRR 20848 IRRC 20848
+Proxy::nextString end.
+Proxy::nextString start: USF 20849 USR 20849 IRFR 20849 IRRR 20849 IRRC 20849
+Proxy::nextString end.
+Proxy::nextString start: USF 20850 USR 20850 IRFR 20850 IRRR 20850 IRRC 20850
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:US
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: F 20851 USR 20851 IRFR 2
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 0851 IRRR 20851 IRRC 208
+NSP::decodeNetstring start
+Proxy::nextString start: USF 20851 USR 20851 IRFR 20851 IRRR 20851 IRRC 208
+Proxy::nextString end.
+[hanging]
+[CTRL+C]
+^CProxy::teardown start!
+if m_serial start
+
+---------------------------------------------------------------------------
+
+
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ ./proxy --cid=222 --freq=100
+NSP::nextString start: 52:USF 20852 USR 20852 IRFR 20852 IRRR 20852 IRRC 20852,
+52:USF 20853 USR 20853 IRFR 20853 IRRR 20853 IRRC 20853,
+52:USF 20854 USR 20854 IRFR 20854 IRRR 20854 IRRC 20854,
+52:USF 20855 USR 20855 IRFR 20855 IRRR 20855 IRRC 20855,
+52:USF 20856 USR 20856 IRFR 20856 IRRR 20856 IRRC 20856,
+52:USF 20857 USR 20857 IRFR 20857 IRRR 20857 IRRC 20857,
+52:USF 20858 USR 20858 IRFR 20858 IRRR 20858 IRRC 20858,
+52:USF 20859 USR 20859 IRFR 20859 IRRR 20859 IRRC 20859,
+52:USF 20860 USR 20860 IRFR 20860 IRRR 20860 IRRC 20860,
+52:USF 20861 USR 20861 IRFR 20861 IRRR 20861 IRRC 20861,
+52:USF 20862 USR 20862 IRFR 20862 IRRR 20862 IRRC 20862,
+52:USF 20863 USR 20863 IRFR 20863 IRRR 20863 IRRC 20863,
+52:USF 20864 USR 20864 IRFR 20864 IRRR 20864 IRRC 20864,
+52:USF 20865 USR 20865 IRFR 20865 IRRR 20865 IRRC 20865,
+52:USF 20866 USR 20866 IRFR 20866 IRRR 20866 IRRC 20866,
+52:USF 20867 USR 20867 IRFR 20867 IRRR 20867 IRRC 20867,
+52:USF 20868 USR 20868 IRFR 20868 IRRR 20868 IRRC 20868,
+52:USF 20869 USR 20869 IRFR 20869 IRRR 20869 IRRC 20869,
+52:USF 20870 USR 20870 IRFR 20870 IRRR 20870 IRRC 20870,
+52:USF 20871 USR 20871 IRFR 20871 IRRR 20871 IRRC 20871,
+52:USF 20872 USR 20872 IRFR 20872 IRRR 20872 IRRC 20872,
+52:USF 20873 USR 20873 IRFR 20873 IRRR 20873 IRRC 20873,
+52:USF 20874 USR 20874 IRFR 20874 IRRR 20874 IRRC 20874,
+52:USF 20875 USR 20875 IRFR 20875 IRRR 20875 IRRC 20875,
+52:USF 20876 USR 20876 IRFR 20876 IRRR 20876 IRRC 20876,
+52:USF 20877 USR 20877 IRFR 20877 IRRR 20877 IRRC 20877,
+52:USF 20878 USR 20878 IRFR 20878 IRRR 20878 IRRC 20878,
+52:USF 20879 USR 20879 IRFR 20879 IRRR 20879 IRRC 20879,
+52:USF 20880 USR 20880 IRFR 20880 IRRR 20880 IRRC 20880,
+52:USF 20881 USR 20881 IRFR 20881 IRRR 20881 IRRC 20881,
+52:USF 20882 USR 20882 IRFR 20882 IRRR 20882 IRRC 20882,
+52:USF 20883 USR 20883 IRFR 20883 IRRR 20883 IRRC 20883,
+52:USF 20884 USR 20884 IRFR 20884 IRRR 20884 IRRC 20884,
+52:USF 20885 USR 20885 IRFR 20885 IRRR 20885 IRRC 20885,
+52:USF 20886 USR 20886 IRFR 20886 IRRR 20886 IRRC 20886,
+52:USF 20887 USR 20887 IRFR 20887 IRRR 20887 IRRC 20887,
+52:USF 20888 USR 20888 IRFR 20888 IRRR 20888 IRRC 20888,
+52:USF 20889 USR 20889 IRFR 20889 IRRR 20889 IRRC 20889,
+52:USF 20890 USR 20890 IRFR 20890 IRRR 20890 IRRC 20890,
+52:USF 20891 USR 20891 IRFR 20891 IRRR 20891 IRRC 20891,
+52:USF 20892 USR 20892 IRFR 20892 IRRR 20892 IRRC 20892,
+52:USF 20893 USR 20893 IRFR 20893 IRRR 20893 IRRC 20893,
+52:USF 20894 USR 20894 IRFR 20894 IRRR 20894 IRRC 20894,
+52:USF 20895 USR 20895 IRFR 20895 IRRR 20895 IRRC 20895,
+52:USF 20896 USR 20896 IRFR 20896 IRRR 20896 IRRC 20896,
+52:USF 20897 USR 20897 IRFR 20897 IRRR 20897 IRRC 20897,
+52:USF 20898 USR 20898 IRFR 20898 IRRR 20898 IRRC 20898,
+52:USF 20899 USR 20899 IRFR 20899 IRRR 20899 IRRC 20899,
+52:USF 20900 USR 20900 IRFR 20900 IRRR 20900 IRRC 20900,
+52:USF 20901 USR 20901 IRFR 20901 IRRR 20901 IRRC 20901,
+52:USF 20902 USR 20902 IRFR 20902 IRRR 20902 IRRC 20902,
+52:USF 20903 USR 20903 IRFR 20903 IRRR 20903 IRRC 20903,
+52:USF 20904 USR 20904 IRFR 20904 IRRR 20904 IRRC 20904,
+52:USF 20905 USR 20905 IRFR 20905 IRRR 20905 IRRC 20905,
+52:USF 20906 USR 20906 IRFR 20906 IRRR 20906 IRRC 20906,
+52:USF 20907 USR 20907 IRFR 20907 IRRR 20907 IRRC 20907,
+52:USF 20908 USR 20908 IRFR 20908 IRRR 20908 IRRC 20908,
+52:USF 20909 USR 20909 IRFR 20909 IRRR 20909 IRRC 20909,
+52:USF 20910 USR 20910 IRFR 20910 IRRR 20910 IRRC 20910,
+52:USF 20911 USR 20911 IRFR 20911 IRRR 20911 IRRC 20911,
+52:USF 20912 USR 20912 IRFR 20912 IRRR 20912 IRRC 20912,
+52:USF 20913 USR 20913 IRFR 20913 IRRR 20913 IRRC 20913,
+52:USF 20914 USR 20914 IRFR 20914 IRRR 20914 IRRC 20914,
+52:USF 20915 USR 20915 IRFR 20915 IRRR 20915 IRRC 20915,
+52:USF 20916 USR 20916 IRFR 20916 IRRR 20916 IRRC 20916,
+52:USF 20917 USR 20917 IRFR 20917 IRRR 20917 IRRC 20917,
+52:USF 20918 USR 20918 IRFR 20918 IRRR 20918 IRRC 20918,
+52:USF 20919 USR 20919 IRFR 20919 IRRR 20919 IRRC 20919,
+52:USF 20920 USR 20920 IRFR 20920 IRRR 20920 IRRC 20920,
+52:USF 20921 USR 20921 IRFR 20921 IRRR 20921 IRRC 20921,
+52:USF 20922 USR 20922 IRFR 20922 I
+NSP::decodeNetstring start
+Proxy::nextString start: USF 20852 USR 20852 IRFR 20852 IRRR 20852 IRRC 20852
+Proxy::nextString end.
+Proxy::nextString start: USF 20853 USR 20853 IRFR 20853 IRRR 20853 IRRC 20853
+Proxy::nextString end.
+Proxy::nextString start: USF 20854 USR 20854 IRFR 20854 IRRR 20854 IRRC 20854
+Proxy::nextString end.
+Proxy::nextString start: USF 20855 USR 20855 IRFR 20855 IRRR 20855 IRRC 20855
+Proxy::nextString end.
+Proxy::nextString start: USF 20856 USR 20856 IRFR 20856 IRRR 20856 IRRC 20856
+Proxy::nextString end.
+Proxy::nextString start: USF 20857 USR 20857 IRFR 20857 IRRR 20857 IRRC 20857
+Proxy::nextString end.
+Proxy::nextString start: USF 20858 USR 20858 IRFR 20858 IRRR 20858 IRRC 20858
+Proxy::nextString end.
+Proxy::nextString start: USF 20859 USR 20859 IRFR 20859 IRRR 20859 IRRC 20859
+Proxy::nextString end.
+Proxy::nextString start: USF 20860 USR 20860 IRFR 20860 IRRR 20860 IRRC 20860
+Proxy::nextString end.
+Proxy::nextString start: USF 20861 USR 20861 IRFR 20861 IRRR 20861 IRRC 20861
+Proxy::nextString end.
+Proxy::nextString start: USF 20862 USR 20862 IRFR 20862 IRRR 20862 IRRC 20862
+Proxy::nextString end.
+Proxy::nextString start: USF 20863 USR 20863 IRFR 20863 IRRR 20863 IRRC 20863
+Proxy::nextString end.
+Proxy::nextString start: USF 20864 USR 20864 IRFR 20864 IRRR 20864 IRRC 20864
+Proxy::nextString end.
+Proxy::nextString start: USF 20865 USR 20865 IRFR 20865 IRRR 20865 IRRC 20865
+Proxy::nextString end.
+Proxy::nextString start: USF 20866 USR 20866 IRFR 20866 IRRR 20866 IRRC 20866
+Proxy::nextString end.
+Proxy::nextString start: USF 20867 USR 20867 IRFR 20867 IRRR 20867 IRRC 20867
+Proxy::nextString end.
+Proxy::nextString start: USF 20868 USR 20868 IRFR 20868 IRRR 20868 IRRC 20868
+Proxy::nextString end.
+Proxy::nextString start: USF 20869 USR 20869 IRFR 20869 IRRR 20869 IRRC 20869
+Proxy::nextString end.
+Proxy::nextString start: USF 20870 USR 20870 IRFR 20870 IRRR 20870 IRRC 20870
+Proxy::nextString end.
+Proxy::nextString start: USF 20871 USR 20871 IRFR 20871 IRRR 20871 IRRC 20871
+Proxy::nextString end.
+Proxy::nextString start: USF 20872 USR 20872 IRFR 20872 IRRR 20872 IRRC 20872
+Proxy::nextString end.
+Proxy::nextString start: USF 20873 USR 20873 IRFR 20873 IRRR 20873 IRRC 20873
+Proxy::nextString end.
+Proxy::nextString start: USF 20874 USR 20874 IRFR 20874 IRRR 20874 IRRC 20874
+Proxy::nextString end.
+Proxy::nextString start: USF 20875 USR 20875 IRFR 20875 IRRR 20875 IRRC 20875
+Proxy::nextString end.
+Proxy::nextString start: USF 20876 USR 20876 IRFR 20876 IRRR 20876 IRRC 20876
+Proxy::nextString end.
+Proxy::nextString start: USF 20877 USR 20877 IRFR 20877 IRRR 20877 IRRC 20877
+Proxy::nextString end.
+Proxy::nextString start: USF 20878 USR 20878 IRFR 20878 IRRR 20878 IRRC 20878
+Proxy::nextString end.
+Proxy::nextString start: USF 20879 USR 20879 IRFR 20879 IRRR 20879 IRRC 20879
+Proxy::nextString end.
+Proxy::nextString start: USF 20880 USR 20880 IRFR 20880 IRRR 20880 IRRC 20880
+Proxy::nextString end.
+Proxy::nextString start: USF 20881 USR 20881 IRFR 20881 IRRR 20881 IRRC 20881
+Proxy::nextString end.
+Proxy::nextString start: USF 20882 USR 20882 IRFR 20882 IRRR 20882 IRRC 20882
+Proxy::nextString end.
+Proxy::nextString start: USF 20883 USR 20883 IRFR 20883 IRRR 20883 IRRC 20883
+Proxy::nextString end.
+Proxy::nextString start: USF 20884 USR 20884 IRFR 20884 IRRR 20884 IRRC 20884
+Proxy::nextString end.
+Proxy::nextString start: USF 20885 USR 20885 IRFR 20885 IRRR 20885 IRRC 20885
+Proxy::nextString end.
+Proxy::nextString start: USF 20886 USR 20886 IRFR 20886 IRRR 20886 IRRC 20886
+Proxy::nextString end.
+Proxy::nextString start: USF 20887 USR 20887 IRFR 20887 IRRR 20887 IRRC 20887
+Proxy::nextString end.
+Proxy::nextString start: USF 20888 USR 20888 IRFR 20888 IRRR 20888 IRRC 20888
+Proxy::nextString end.
+Proxy::nextString start: USF 20889 USR 20889 IRFR 20889 IRRR 20889 IRRC 20889
+Proxy::nextString end.
+Proxy::nextString start: USF 20890 USR 20890 IRFR 20890 IRRR 20890 IRRC 20890
+Proxy::nextString end.
+Proxy::nextString start: USF 20891 USR 20891 IRFR 20891 IRRR 20891 IRRC 20891
+Proxy::nextString end.
+Proxy::nextString start: USF 20892 USR 20892 IRFR 20892 IRRR 20892 IRRC 20892
+Proxy::nextString end.
+Proxy::nextString start: USF 20893 USR 20893 IRFR 20893 IRRR 20893 IRRC 20893
+Proxy::nextString end.
+Proxy::nextString start: USF 20894 USR 20894 IRFR 20894 IRRR 20894 IRRC 20894
+Proxy::nextString end.
+Proxy::nextString start: USF 20895 USR 20895 IRFR 20895 IRRR 20895 IRRC 20895
+Proxy::nextString end.
+Proxy::nextString start: USF 20896 USR 20896 IRFR 20896 IRRR 20896 IRRC 20896
+Proxy::nextString end.
+Proxy::nextString start: USF 20897 USR 20897 IRFR 20897 IRRR 20897 IRRC 20897
+Proxy::nextString end.
+Proxy::nextString start: USF 20898 USR 20898 IRFR 20898 IRRR 20898 IRRC 20898
+Proxy::nextString end.
+Proxy::nextString start: USF 20899 USR 20899 IRFR 20899 IRRR 20899 IRRC 20899
+Proxy::nextString end.
+Proxy::nextString start: USF 20900 USR 20900 IRFR 20900 IRRR 20900 IRRC 20900
+Proxy::nextString end.
+Proxy::nextString start: USF 20901 USR 20901 IRFR 20901 IRRR 20901 IRRC 20901
+Proxy::nextString end.
+Proxy::nextString start: USF 20902 USR 20902 IRFR 20902 IRRR 20902 IRRC 20902
+Proxy::nextString end.
+Proxy::nextString start: USF 20903 USR 20903 IRFR 20903 IRRR 20903 IRRC 20903
+Proxy::nextString end.
+Proxy::nextString start: USF 20904 USR 20904 IRFR 20904 IRRR 20904 IRRC 20904
+Proxy::nextString end.
+Proxy::nextString start: USF 20905 USR 20905 IRFR 20905 IRRR 20905 IRRC 20905
+Proxy::nextString end.
+Proxy::nextString start: USF 20906 USR 20906 IRFR 20906 IRRR 20906 IRRC 20906
+Proxy::nextString end.
+Proxy::nextString start: USF 20907 USR 20907 IRFR 20907 IRRR 20907 IRRC 20907
+Proxy::nextString end.
+Proxy::nextString start: USF 20908 USR 20908 IRFR 20908 IRRR 20908 IRRC 20908
+Proxy::nextString end.
+Proxy::nextString start: USF 20909 USR 20909 IRFR 20909 IRRR 20909 IRRC 20909
+Proxy::nextString end.
+Proxy::nextString start: USF 20910 USR 20910 IRFR 20910 IRRR 20910 IRRC 20910
+Proxy::nextString end.
+Proxy::nextString start: USF 20911 USR 20911 IRFR 20911 IRRR 20911 IRRC 20911
+Proxy::nextString end.
+Proxy::nextString start: USF 20912 USR 20912 IRFR 20912 IRRR 20912 IRRC 20912
+Proxy::nextString end.
+Proxy::nextString start: USF 20913 USR 20913 IRFR 20913 IRRR 20913 IRRC 20913
+Proxy::nextString end.
+Proxy::nextString start: USF 20914 USR 20914 IRFR 20914 IRRR 20914 IRRC 20914
+Proxy::nextString end.
+Proxy::nextString start: USF 20915 USR 20915 IRFR 20915 IRRR 20915 IRRC 20915
+Proxy::nextString end.
+Proxy::nextString start: USF 20916 USR 20916 IRFR 20916 IRRR 20916 IRRC 20916
+Proxy::nextString end.
+Proxy::nextString start: USF 20917 USR 20917 IRFR 20917 IRRR 20917 IRRC 20917
+Proxy::nextString end.
+Proxy::nextString start: USF 20918 USR 20918 IRFR 20918 IRRR 20918 IRRC 20918
+Proxy::nextString end.
+Proxy::nextString start: USF 20919 USR 20919 IRFR 20919 IRRR 20919 IRRC 20919
+Proxy::nextString end.
+Proxy::nextString start: USF 20920 USR 20920 IRFR 20920 IRRR 20920 IRRC 20920
+Proxy::nextString end.
+Proxy::nextString start: USF 20921 USR 20921 IRFR 20921 IRRR 20921 IRRC 20921
+Proxy::nextString end.
+NSP::nextString end
+NSP::nextString start: RRR 20922 IRRC 20922,
+52:USF 20923 USR 20923 IRFR 20923 IRRR 20923 IR:R 21869 IRFR 21869 IRRR 21869 IRRC 21869,
+RRC 21867,
+52:US
+NSP::decodeNetstring start
+Proxy::nextString start: USF 20922 USR 20922 IRFR 20922 IRRR 20922 IRRC 20922
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: F 21868 USR 21868 IRFR 21868 IRRR 21868 IRRC 21868,
+52:USF 21869 USR 21869 IRFR 21869 IRRR 21869 IRRC 21869,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: :USF 21870 USR 21870 IRF
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: R 21870 IRRR 21870 IRRC 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 21870,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:US
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: F 21871 USR 21871 IRFR 2
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 1871 IRRR 21871 IRRC 218
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 71,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 21872 USR 21872 IRFR 2187
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 2 IRRR 21872 IRRC 21872,
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 218
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 73 USR 21873 IRFR 21873 I
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RRR 21873 IRRC 21873,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21874 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: USR 21874 IRFR 21874 IRRR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  21874 IRRC 21874,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21875 USR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  21875 IRFR 21875 IRRR 21
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 875 IRRC 21875,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21876 USR 21
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 876 IRFR 21876 IRRR 21876
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  IRRC 21876,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21877 USR 21877
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  IRFR 21877 IRRR 21877 IR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RC 21877,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 5
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 2:USF 21878 USR 21878 IR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: FR 21878 IRRR 21878 IRRC 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 21878,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:U
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: SF 21879 USR 21879 IRFR 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 21879 IRRR 21879 IRRC 21
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 879,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 21880 USR 21880 IRFR 218
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 80 IRRR 21880 IRRC 21880
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: ,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 218
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 81 USR 21881 IRFR 21881 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: IRRR 21881 IRRC 21881,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21882 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: USR 21882 IRFR 21882 IRR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: R 21882 IRRC 21882,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21883 USR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  21883 IRFR 21883 IRRR 2
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 1883 IRRC 21883,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21884 USR 21
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 884 IRFR 21884 IRRR 2188
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 4 IRRC 21884,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21885 USR 21885
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  IRFR 21885 IRRR 21885 I
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RRC 21885,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 5
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 2:USF 21886 USR 21886 IR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: FR 21886 IRRR 21886 IRRC
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  21886,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: USF 21887 USR 21887 IRFR 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 21887 IRRR 21887 IRRC 21
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 887,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  21888 USR 21888 IRFR 218
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 88 IRRR 21888 IRRC 21888
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: ,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 889 USR 21889 IRFR 21889 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: IRRR 21889 IRRC 21889,
+
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 52:USF 21890
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  USR 21890 IRFR 21890 IR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RR 21890 IRRC 21890,
+
+NSP::decodeNetstring start
+NSP::nextString end
+^CProxy::teardown start!
+if m_serial start
+NSP::nextString start: 52:USF 21891 US
+NSP::decodeNetstring start
+NSP::nextString end
+if m_serial end
+if m_nsp start
+if m_nsp end
+Proxy::teardown end!
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$
+
+
+-------------------------------------------------------------------------------
+[CHECKED ARDUINO MONITOR COUNT WAS ~26000. Closed and started proxy asap.
+chap@chap-desktop:~/work/OpenDaVINCI/automotive/miniature/proxy/build$ ./proxy --cid=222 --freq=100
+NSP::nextString start: 52:USF 26021 USR 26021 IRFR 26021 IRRR 26021 IRRC 26021,
+52:USF 26022 USR 26022 IRFR 26022 IRRR 26022 IRRC 26022,
+52:USF 26023 USR 26023 IRFR 26023 IRRR 26023 IRRC 26023,
+52:USF 26024 USR 26024 IRFR 26024 IRRR 26024 IRRC 26024,
+52:USF 26025 USR 26025 IRFR 26025 IRRR 26025 IRRC 26025,
+52:USF 26026 USR 26026 IRFR 26026 IRRR 26026 IRRC 26026,
+52:USF 26027 USR 26027 IRFR 26027 IRRR 26027 IRRC 26027,
+52:USF 26028 USR 26028 IRFR 26028 IRRR 26028 IRRC 26028,
+52:USF 26029 USR 26029 IRFR 26029 IRRR 26029 IRRC 26029,
+52:USF 26030 USR 26030 IRFR 26030 IRRR 26030 IRRC 26030,
+52:USF 26031 USR 26031 IRFR 26031 IRRR 26031 IRRC 26031,
+52:USF 26032 USR 26032 IRFR 26032 IRRR 26032 IRRC 26032,
+52:USF 2603
+NSP::decodeNetstring start
+Proxy::nextString start: USF 26021 USR 26021 IRFR 26021 IRRR 26021 IRRC 26021
+Proxy::nextString end.
+Proxy::nextString start: USF 26022 USR 26022 IRFR 26022 IRRR 26022 IRRC 26022
+Proxy::nextString end.
+Proxy::nextString start: USF 26023 USR 26023 IRFR 26023 IRRR 26023 IRRC 26023
+Proxy::nextString end.
+Proxy::nextString start: USF 26024 USR 26024 IRFR 26024 IRRR 26024 IRRC 26024
+Proxy::nextString end.
+Proxy::nextString start: USF 26025 USR 26025 IRFR 26025 IRRR 26025 IRRC 26025
+Proxy::nextString end.
+Proxy::nextString start: USF 26026 USR 26026 IRFR 26026 IRRR 26026 IRRC 26026
+Proxy::nextString end.
+Proxy::nextString start: USF 26027 USR 26027 IRFR 26027 IRRR 26027 IRRC 26027
+Proxy::nextString end.
+Proxy::nextString start: USF 26028 USR 26028 IRFR 26028 IRRR 26028 IRRC 26028
+Proxy::nextString end.
+Proxy::nextString start: USF 26029 USR 26029 IRFR 26029 IRRR 26029 IRRC 26029
+Proxy::nextString end.
+Proxy::nextString start: USF 26030 USR 26030 IRFR 26030 IRRR 26030 IRRC 26030
+Proxy::nextString end.
+Proxy::nextString start: USF 26031 USR 26031 IRFR 26031 IRRR 26031 IRRC 26031
+Proxy::nextString end.
+Proxy::nextString start: USF 26032 USR 26032 IRFR 26032 IRRR 26032 IRRC 26032
+Proxy::nextString end.
+NSP::nextString end
+NSP::nextString start: 3 USR 26033 IRFR 26033 I
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RRR 26033 IRRC 26033,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 26033 USR 26033 IRFR 26033 IRRR 26033 IRRC 26033
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 26034 U
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: SR 26034 IRFR 26034 IRRR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  26034 IRRC 26034,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 26034 USR 26034 IRFR 26034 IRRR 26034 IRRC 26034
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 26035 USR 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 26035 IRFR 26035 IRRR 26
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 035 IRRC 26035,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 26035 USR 26035 IRFR 26035 IRRR 26035 IRRC 26035
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 26036 USR 260
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: 36 IRFR 26036 IRRR 26036
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start:  IRRC 26036,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 26036 USR 26036 IRFR 26036 IRRR 26036 IRRC 26036
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52:USF 26037 USR 26037 
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: IRFR 26037 IRRR 26037 IR
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: RC 26037,
+
+NSP::decodeNetstring start
+Proxy::nextString start: USF 26037 USR 26037 IRFR 26037 IRRR 26037 IRRC 26037
+Proxy::nextString end.
+NSP::decodeNetstring end
+NSP::nextString end
+NSP::nextString start: 52
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: :USF 26038 USR 26038 IRF
+NSP::decodeNetstring start
+NSP::nextString end
+NSP::nextString start: R 26038 IRRR 26038 IRRC 
+NSP::decodeNetstring start
+Proxy::nextString start: USF 26038 USR 26038 IRFR 26038 IRRR 26038 IRRC 
+Proxy::nextString end.
+
+
+
+
+
